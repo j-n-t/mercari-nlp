@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/kaggle-organizations/1076/thumbnail.jpg%3Fr=260" alt="Mercari Kaggle Competition" height="250" width="250">
+<img src="https://erinsinsidejob.com/wp-content/uploads/2016/01/mercari.gif" alt="Mercari Kaggle Competition">
 
 # Mercari Price Suggestion Challenge
 ***
